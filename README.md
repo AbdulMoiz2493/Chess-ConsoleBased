@@ -50,7 +50,7 @@ This project implements a console-based chess game in Python, where you can play
 
 ## Report
 
-A detailed implementation report is available in the `chess.docs` file, which explains the underlying logic of the game, the Min-Max algorithm, Alpha-Beta pruning, and how the game handles various scenarios.
+A detailed implementation report is available in the `chess.docx` file, which explains the underlying logic of the game, the Min-Max algorithm, Alpha-Beta pruning, and how the game handles various scenarios.
 
 ## Contribution
 
